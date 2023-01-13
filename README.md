@@ -11,7 +11,6 @@ Spotify API's are used.
 
 User can login using its credentials via Spotify Authentication.
 
-User can view its playlists, username and profile photo.
 ## Demo
 
 You can watch this video to see how it works and looks (* in case it doesn't work for you!) 
