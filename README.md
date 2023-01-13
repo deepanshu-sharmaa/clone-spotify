@@ -9,12 +9,14 @@ React, Material UI, Context API and Flexbox are used.
 
 Spotify API's are used.
 
-User can login using its credentials via Spotify Authentication. (Currently not working, only I can access, will be upgraded ASAP)
+User can login using its credentials via Spotify Authentication.
 
-User can view its playlists, username and profile photo.(this is also not working)
+User can view its playlists, username and profile photo.
 ## Demo
 
-As of now, yout can watch the following video to get an overview about how the project works. 
+You can watch this video to see how it works and looks (* in case it doesn't work for you!) 
 
 https://youtu.be/lWtwxq3feXQ
 
+
+Thank You!
